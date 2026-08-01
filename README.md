@@ -1,2 +1,2 @@
 # prakriti
-first project 
+first project meant to be good 
